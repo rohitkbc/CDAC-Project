@@ -1,0 +1,13 @@
+.rccs__card--unknown>div {
+    background: linear-gradient(25deg, #999, #999);
+
+    box-shadow: 0 30px 60px 0 rgba(90, 116, 148, 0.4);
+    background-image: url(../23.jpeg);
+}
+
+.rccs__card--unknown .rccs__issuer {
+    visibility: visible;
+    width: 84.89px;
+    height: 45px;
+    background-image: url(../visa.png);
+}
